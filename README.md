@@ -14,6 +14,8 @@ We need you to create an integration test suite to test that the application her
 
 To submit your assessment please send us your GitHub repository URL. You will get bonus points if you send it to us before you've actually finished and work on it iteratively (like real life), your thought processes are of greater interest to us.
 
+We recommend you spend around a week in your spare time on this task.
+
 **Good Luck!**
 
 ## The Scenario
